@@ -7,7 +7,7 @@ using HarmonyLib;
 
 namespace TenebroseItems
 {
-    [BepInPlugin(MOD_GUID, "Tenebrose Items", "1.0.10")]
+    [BepInPlugin(MOD_GUID, "Tenebrose Items", "1.0.11")]
     [BepInDependency(ETGModMainBehaviour.GUID)]
     [BepInDependency(Alexandria.Alexandria.GUID)]
     public class Plugin : BaseUnityPlugin
